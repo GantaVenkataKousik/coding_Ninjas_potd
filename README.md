@@ -12,7 +12,7 @@
 <h2>🌟 Best Snaps - Solving Challenges with Style 📸💪</h2>
 
 <!-- You can also add a snapshot or screenshot of your streak for visual representation -->
-<img src="https://i.postimg.cc/KYKJ0RQ6/Screenshot-2024-01-17-224153.png" alt="project-screenshot" width="100%" height="400/">
+<img src="https://i.postimg.cc/2SbVKqps/Screenshot-2024-01-22-080928.png" alt="project-screenshot" width="100%" height="400/">
 <img src="https://i.postimg.cc/CMb6ynYY/Screenshot-2024-01-17-224100.png" alt="project-screenshot" width="100%" height="400/">
 
 <p>Check out my best snap showcasing my problem-solving skills on Coding Ninjas. I've tackled problems ranging from easy to hard, demonstrating my versatility and proficiency in coding. 💻🚀</p>
